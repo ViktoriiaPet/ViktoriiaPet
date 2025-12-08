@@ -21,14 +21,6 @@ I'm a frontend/backend developer passionate about TypeScript, Node.js, Express, 
 
 ---
 
-## 📈 GitHub Stats
-
-![GitHub stars](https://img.shields.io/github/stars/ViktoriiaPet?style=flat-square)
-![Public Repos](https://img.shields.io/github/forks/ViktoriiaPet?style=flat-square&label=Forks)
-![GitHub Profile](https://img.shields.io/badge/GitHub-ViktoriiaPet-181717?style=flat-square&logo=github)
-
----
-
 ## 🌟 Top Languages
 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
