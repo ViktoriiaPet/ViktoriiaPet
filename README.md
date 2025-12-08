@@ -24,7 +24,7 @@ I'm a frontend/backend developer passionate about TypeScript, Node.js, Express, 
 ## 📈 GitHub Stats
 
 ![GitHub stars](https://img.shields.io/github/stars/ViktoriiaPet?style=flat-square)
-![GitHub repos](https://img.shields.io/github/repos/ViktoriiaPet?style=flat-square)
+![Repositories](https://img.shields.io/github/repos/ViktoriiaPet?style=flat-square&label=Repos)
 
 ---
 
