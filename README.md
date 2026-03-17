@@ -2,8 +2,6 @@
 
 
 <table>
-  <tr>
-     <td> <img width="370" height="390" alt="copy without fon 2" src="https://github.com/user-attachments/assets/e1b0f6be-31d5-41d1-9343-092b4f71c640" />
  </td>
     <td>
       <h3>I'm a frontend/backend developer passionate about TypeScript, Node.js, Express, and creating both learning and practical projects.  </h3>
