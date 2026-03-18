@@ -52,9 +52,9 @@
 
 | Project | Stack | Link |
 |--------|------|------|
-| Learning Express API | Node.js, Express, MySQL | [GitHub](#) |
-| TypeScript Challenges | TypeScript, Tests | [GitHub](#) |
-| React SPA | React, TailwindCSS | [GitHub](#) |
+| Learning Express API | Node.js, Express, MySQL | [GitHub](https://github.com/ViktoriiaPet/crud-api) |
+| TypeScript Challenges | TypeScript, Tests | React SPA | React, TailwindCSS | [GitHub](https://github.com/ViktoriiaPet/rest-client-app) |
+
 
 ---
 
