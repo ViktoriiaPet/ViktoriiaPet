@@ -50,10 +50,10 @@
 
 ## 📂 My Projects
 
-| Project | Stack | Link |
-|--------|------|------|
-| Learning Express API | Node.js, Express, MySQL | [GitHub](https://github.com/ViktoriiaPet/crud-api) |
-| TypeScript Challenges | TypeScript, Tests | React SPA | React, TailwindCSS | [GitHub](https://github.com/ViktoriiaPet/rest-client-app) |
+| Project | Stack | Description | GitHub |
+|---------|-------|------------|--------|
+| Learning Express API | Node.js, Express, MySQL | REST API project | [GitHub](https://github.com/ViktoriiaPet/CRUD-API-RS) |
+| TypeScript Challenges | TypeScript, React, TailwindCSS | React SPA + tests | [GitHub](https://github.com/ViktoriiaPet/rest-client-app) |
 
 
 ---
