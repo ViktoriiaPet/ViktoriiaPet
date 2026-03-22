@@ -52,8 +52,9 @@
 
 | Project | Stack | Description | GitHub |
 |---------|-------|------------|--------|
-| Learning Express API | Node.js, Express, MySQL | REST API project | [GitHub](https://github.com/ViktoriiaPet/CRUD-API-RS) |
+| Learning Express API | Node.js, Fastify, Tests | REST API project | [GitHub](https://github.com/ViktoriiaPet/CRUD-API-RS) |
 | TypeScript Challenges | TypeScript, React, TailwindCSS | React SPA + tests | [GitHub](https://github.com/ViktoriiaPet/rest-client-app) |
+ Learning Express API | Node.js, Express, MySQL | REST API project | [GitHub](https://github.com/IFCD0022-CIFO-Violeta-2025/fullstack-JS-final-project) |
 
 
 ---
