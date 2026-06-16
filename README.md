@@ -50,11 +50,10 @@
 
 ## 📂 My Projects
 
-| Project | Stack | Description | GitHub |
-|---------|-------|------------|--------|
-| Learning Express API | Node.js, Fastify, Tests | REST API project | [GitHub](https://github.com/ViktoriiaPet/CRUD-API-RS) |
-| TypeScript Challenges | TypeScript, React, TailwindCSS | React SPA + tests | [GitHub](https://github.com/ViktoriiaPet/rest-client-app) |
- Learning Express API | Node.js, Express, MySQL | REST API project | [GitHub](https://github.com/IFCD0022-CIFO-Violeta-2025/fullstack-JS-final-project) |
+| Project | Stack | Description | GitHub | Deploy |
+|---------|-------|------------|--------|--------|
+| Express API | Node.js, Express, JWT, Swagger | REST API project  |  [GitHub](https://github.com/ViktoriiaPet/crud-api) |[LINK swagger](https://crud-api-5ydv.onrender.com/api-docs/#/) / [LINK live](https://crud-api-5ydv.onrender.com/)  |
+| Portfolio | React, Zod, Tailwind | Portfolio landing page | [GitHub](https://github.com/ViktoriiaPet/portafolio)  | [LINK live](https://viktoriiapet.github.io/portafolio/) |
 
 
 ---
