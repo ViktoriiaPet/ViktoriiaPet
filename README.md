@@ -53,6 +53,7 @@
 | Project | Stack | Description | GitHub | Deploy |
 |---------|-------|------------|--------|--------|
 | Express API | Node.js, Express, JWT, Swagger | REST API project  |  [GitHub](https://github.com/ViktoriiaPet/crud-api) |[LINK swagger](https://crud-api-5ydv.onrender.com/api-docs/#/) / [LINK live](https://crud-api-5ydv.onrender.com/)  |
+|Postman| React Router, Remix, SSR, Firebase, Tailwind, Zod| SSR Poastman team's project| [GitHub](https://github.com/ViktoriiaPet/rest-client-app) - develop branch is actual for install| Link is not available because firebase trial-period is expired|
 | Portfolio | React, Zod, Tailwind | Portfolio landing page | [GitHub](https://github.com/ViktoriiaPet/portafolio)  | [LINK live](https://viktoriiapet.github.io/portafolio/) |
 
 
